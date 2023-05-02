@@ -1,0 +1,89 @@
+{
+   "about": [
+      {
+         "name": "Abdillah",
+         "role": "Software Engineer | UI/UX Designer",
+         "information": "More than 2+ years of experience in graphic design and web programming ( MERN and MEVN ) Fullstack Javascript. High interest in technology, especially web and mobile programming. additional expertise in the form of certified taxation and accounting.",
+         "image": "https://media.discordapp.net/attachments/1079821583255875728/1102422904697794690/hero.png?width=1000&height=1000"
+      }
+   ],
+   "education": [
+      {
+         "name": "Hacktiv8 Indonesia",
+         "role": "Fullstack Javascript",
+         "date": "Jan 2023 - Mei 2023",
+         "image": "https://media.discordapp.net/attachments/1079821583255875728/1102422904446128159/hacktiv8.jpeg?width=400&height=400"
+      },
+      {
+         "name": "Binar Academy",
+         "role": "Front end engineer",
+         "date": "Okt 2022 - Mar 2023",
+         "image": "https://media.discordapp.net/attachments/1079821583255875728/1102422903808602243/binar.jpeg?width=400&height=400"
+      },
+      {
+         "name": "Universitas Riau",
+         "role": "Associate&apos;s degree, Tax and Accounting",
+         "date": "Jan 2023 - Mei 2023",
+         "image": "https://media.discordapp.net/attachments/1079821583255875728/1102422904928489522/unri.jpeg?width=200&height=200"
+      }
+   ],
+   "experience": [
+      {
+         "job": "Web Programmer",
+         "company": "Agori.id",
+         "date": "Agu 2021 - Saat ini · 1 thn 9 bln",
+         "location": "Pekanbaru, Indonesia"
+      },
+      {
+         "job": "IT Support Technician",
+         "company": "CV.LKP Sahabat Prestasi",
+         "date": "Jan 2020 - Saat ini · 3 thn 4 bln",
+         "location": "Pekanbaru, Indonesia"
+      },
+      {
+         "job": "Accounting Intern",
+         "company": "PT. Asrindo Citraseni Satria",
+         "date": "Feb 2022 - Jul 2022 · 6 bln",
+         "location": "Pekanbaru, Indonesia"
+      },
+      {
+         "job": "Web Developer",
+         "company": "Kebizz",
+         "date": "Okt 2021 - Mar 2022 · 6 bln",
+         "location": "Jakarta Selatan, Jakarta Raya, Indonesia"
+      },
+      {
+         "job": "Tax Staff",
+         "company": "PT. Trio Infotek Batam",
+         "date": "Jan 2018 - Mei 2019 · 1 thn 5 bln",
+         "location": "Batam, Kepulauan Riau, Indonesia"
+      }
+   ],
+   "portofolio": [
+      {
+         "name": "Ecommerce Website",
+         "stack": "Javascript, react, mongoDB, AWS",
+         "image": "https://media.discordapp.net/attachments/1079821583255875728/1102422904047685683/cover.webp?width=1030&height=1030"
+      },
+      {
+         "name": "Ecommerce Website",
+         "stack": "Javascript, react, mongoDB, AWS",
+         "image": "https://media.discordapp.net/attachments/1079821583255875728/1102422904047685683/cover.webp?width=1030&height=1030"
+      },
+      {
+         "name": "Ecommerce Website",
+         "stack": "Javascript, react, mongoDB, AWS",
+         "image": "https://media.discordapp.net/attachments/1079821583255875728/1102422904047685683/cover.webp?width=1030&height=1030"
+      },
+      {
+         "name": "Ecommerce Website",
+         "stack": "Javascript, react, mongoDB, AWS",
+         "image": "https://media.discordapp.net/attachments/1079821583255875728/1102422904047685683/cover.webp?width=1030&height=1030"
+      },
+      {
+         "name": "Ecommerce Website",
+         "stack": "Javascript, react, mongoDB, AWS",
+         "image": "https://media.discordapp.net/attachments/1079821583255875728/1102422904047685683/cover.webp?width=1030&height=1030"
+      }
+   ]
+}
